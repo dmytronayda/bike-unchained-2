@@ -11,6 +11,6 @@ categories: jekyll update
 **Watch video below to learn what you need to do!**
 
 <video width="100%" controls>
-  <source src="https://storage.googleapis.com/bike2-m6-data/SpecialEvents/VWS%232%20IG%20RULES%20MUSIC.mp4"
+  <source src="/vwsRulesVid.mp4"
     type="video/mp4">
 </video>
