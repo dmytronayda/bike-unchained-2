@@ -14,8 +14,3 @@ categories: jekyll update
   <source src="https://storage.googleapis.com/bike2-m6-data/SpecialEvents/VWS%232%20IG%20RULES%20MUSIC.mp4"
     type="video/mp4">
 </video>
-<div style="display: flex; justify-content: center;">
-  <button>
-    <span><a href="playbike2://routing?route=specialevents">Play</a></span>
-  </button>
-</div>
