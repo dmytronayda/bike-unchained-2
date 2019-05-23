@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The ultimate downhill challenge is here.
   Over the next 6 days climb the event leaderboard to prove 
   you are the greatest player and win real POLE MACHINE frameset!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bike-unchained-2" # the subpath of your site, e.g. /blog
+url: "https://dmytronayda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
